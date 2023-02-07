@@ -5,7 +5,7 @@ The Agile12v2016 is an ultra-high field template created locally at our institut
 It consists of 12 healthy control subjects (6 female; age: 27.6 ± 4.4 years). Scans were on a 7-T scanner (Agilent, Santa Clara, California, USA/Siemens, Erlangen, Germany) via a 24-channel transmit-receive head coil array.
 
 
-Assiciated publications: 
+Associated publications: 
 
 Lau, J. C. et al. Ultra-High Field Template-Assisted Target Selection for Deep Brain Stimulation Surgery. World Neurosurg. 103, 531–537 (2017)
 
